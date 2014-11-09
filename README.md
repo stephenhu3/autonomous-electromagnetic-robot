@@ -11,4 +11,4 @@ Adam Wong
 | Daniel Kim 
 | Kaibo Ma 
 | Mason Pimentel 
-| Stephen Hu |
+| Stephen Hu
