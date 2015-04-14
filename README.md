@@ -1,4 +1,4 @@
-AutonomousElectromagneticRobot
+Autonomous Electromagnetic Robot
 ==============================
 
 The source code for our autonomous electromagnetic following robot.
